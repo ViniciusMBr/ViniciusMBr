@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vinicius Borges
 
 - 🔭 Atualmente estou buscando uma oportunidade como Analista Júnior em Front-End
-- 🌱 Estudando JavaScript e TypeScript
+- 🌱 Estudando JavaScript e React
 
 
 
